@@ -1,5 +1,4 @@
 import "./App.scss";
-import "./components/Navbar.jsx";
 import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
