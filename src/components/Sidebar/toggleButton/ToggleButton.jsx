@@ -2,7 +2,9 @@
 
 const ToggleButton = () => {
   return (
-    <div>ToggleButton</div>
+    <button>
+        Button
+    </button>
   )
 }
 
