@@ -3,7 +3,7 @@
     height: 100px;
 
     .wrapper {
-        max-width: 1366px;
+        max-width: 1024px;
         margin: auto;
         display: flex;
         align-items: center;
@@ -12,6 +12,7 @@
 
         span {
             font-weight: bold;
+            margin-left: 50px;
         }
 
         .social {
